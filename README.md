@@ -33,7 +33,7 @@ put it in crontab (assume you installed it in user `dns` home dir)
 basic workflow
 
 ```
-god top dns_service
+god stop dns_service
 god start dns_service
 ```
 

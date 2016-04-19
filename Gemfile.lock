@@ -28,10 +28,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  god
-  rack
-  rubydns
-  sinatra
+  god (= 0.13.7)
+  rack (= 1.6.4)
+  rubydns (= 1.0.3)
+  sinatra (= 1.4.7)
 
 BUNDLED WITH
    1.10.6
