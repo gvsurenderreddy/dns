@@ -1,0 +1,1 @@
+* * * * * cd /home/dns/dns god -c dns.god  -D >/dev/null 2>&1
